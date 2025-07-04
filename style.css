@@ -35,7 +35,7 @@
   }
 
   img {
-  max-width: 100%;
+  max-width: 768px;
   height: auto;
   display: block;
   margin: auto;
@@ -55,6 +55,13 @@
       display: block;
       margin: 10px 0;
     }
+
+    img {
+  max-width: 768px;
+  height: auto;
+  display: block;
+  margin: auto;
+}
 
   }
 </style>
