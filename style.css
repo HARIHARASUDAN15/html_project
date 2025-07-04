@@ -34,12 +34,7 @@
     line-height: 1.6;
   }
 
-  img {
-  max-width: 768px;
-  height: auto;
-  display: block;
-  margin: auto;
-}
+
 
   /* Responsive Design */
   @media (max-width: 600px) {
@@ -55,13 +50,6 @@
       display: block;
       margin: 10px 0;
     }
-
-    img {
-  max-width: 768px;
-  height: auto;
-  display: block;
-  margin: auto;
-}
 
   }
 </style>
