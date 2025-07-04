@@ -45,13 +45,5 @@
       display: block;
       margin: 10px 0;
     }
-
-    img{
-        width: 200%;
-        height: 200%;
-        display: flex;
-        margin: 0 auto;
-    }
-
   }
 </style>
